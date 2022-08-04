@@ -3,6 +3,7 @@
     v-model="value"
     :data="data"
     check-strictly
+multiple
     :render-after-expand="false"
   />
   <el-divider />
